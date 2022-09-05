@@ -28,3 +28,5 @@ cov-int
 /_bin/
 __pycache__
 
+
+.vscode/

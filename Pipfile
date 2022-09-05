@@ -1,0 +1,2 @@
+[scripts]
+upload = "st-flash write /media/liujunxiao/E/dev/tinyusb/examples/device/cdc_msc/_build/stm32f103_bluepill/cdc_msc.bin  0x08000000"
